@@ -45,6 +45,6 @@ Como colocar o codigos, pode-se colocar o nome da linguagem após as crases como
 
 Lista de tarefas no repositório:
 
-* [x] Melhorar a documentação do repositorio
+- [x] Melhorar a documentação do repositorio
 - [ ] Ler a documentação sobre *markdown*
 - [ ] Ler a documentação do git/github
