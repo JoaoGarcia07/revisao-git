@@ -42,3 +42,8 @@ Como colocar o codigos, pode-se colocar o nome da linguagem após as crases como
 ```html
 <h1>Título do nível 1</h1>
 ```
+Lista de tarefas no repositório:
+
+[]Melhorar a documentação do repositorio
+[]Ler a documentação sobre *markdown*
+[]Ler a documentação do git/github
