@@ -48,3 +48,8 @@ Lista de tarefas no repositório:
 - [ ] Melhorar a documentação do repositorio
 - [ ] Ler a documentação sobre *markdown*
 - [ ] Ler a documentação do git/github
+
+# BREANCHS
+git branch -> LISTA AS BRANCHS NO COMPUTADOR
+git brnach nome_da_nova_branch -> não colocar acento ou ç, e use undescore para os espaços em branco
+git switch nome_da_branch -> muda de branch
